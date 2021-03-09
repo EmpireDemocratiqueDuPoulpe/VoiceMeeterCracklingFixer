@@ -1,7 +1,7 @@
 ![](https://github.com/EmpireDemocratiqueDuPoulpe/VoiceMeeterCracklingFixer/blob/main/IconSet/128.png)
 
 # VoiceMeeter Crackling Fixer
-This little script can help you to fix a bug where VoiceMeeter's microphone suddenly stutter at every word you pronounce. The solution came from [this video](https://www.youtube.com/watch?v=71HrZfR_Fro) and I just made a runnable script of it. The advantage is that it's simplest to fix the problem and you can set a task to run this script every time you start your computer.
+This little script can help you to fix a bug where VoiceMeeter's microphone suddenly stutter at every word you pronounce. The solution came from [this video](https://www.youtube.com/watch?v=71HrZfR_Fro) and I just made a runnable script of it. The advantage is that it's easier to fix the problem and you can set a task to run this script every time you start your computer.
 
 > This script requires administrator privileges.
 
