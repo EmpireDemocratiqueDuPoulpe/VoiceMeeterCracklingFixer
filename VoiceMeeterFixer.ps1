@@ -35,6 +35,7 @@ $cores = @{
 $processName = "audiodg"
 $processExt = ".exe"
 $processPriority = "High"
+# You can uses multiples cores by adding them: $cores["Core3"] + $cores["Core4"]
 $processAffinity = $cores["Core1"]
 
 ##########################################
@@ -74,7 +75,6 @@ function Wait-ForProcess
 
 # Wait for "audiodg.exe" process
 Wait-ForProcess -Name $processName
-
 
 # Get the "audiodg.exe" process
 Write-Host "Getting " -NoNewline
