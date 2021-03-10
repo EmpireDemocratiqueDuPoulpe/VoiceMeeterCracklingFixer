@@ -40,6 +40,7 @@ If you're reading this, you want to make your life even nicer than before. And t
     - **Easy way:** Click on "Import task".
         - Import [this task file](https://github.com/EmpireDemocratiqueDuPoulpe/VoiceMeeterCracklingFixer/blob/main/VoiceMeeterFixerTask.xml).
         - Check the user account used to run the task.
+        - Check the script path in "Actions" panel.
     - **Long way:** Click on "New task".
         - In the "General" panel:
             - Set a name.
